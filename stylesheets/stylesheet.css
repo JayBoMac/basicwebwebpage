@@ -436,6 +436,7 @@ body {
   color: #666;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
+/*BLUE*/
 
 p {
   margin-top: 0;
@@ -455,6 +456,7 @@ header {
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
   /*which font from the font family is displaying on the website*/
+  /* SANSERIF*/
 }
 /*add your to your web page and email address*/
 header h1 {
